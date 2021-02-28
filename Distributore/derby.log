@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 27 14:40:19 CET 2021:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): istanza a816c00e-0177-e3b7-f106-000006a7f1a0
+sulla directory di database C:\Users\Acer\eclipse-workspace\Distributore\distributore con caricatore classi jdk.internal.loader.ClassLoaders$AppClassLoader@5387f9e0 
+Caricato da file:/C:/Users/Acer/Desktop/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=C:\Users\Acer\eclipse-workspace\Distributore
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Programma di caricamento classe database avviato - derby.database.classpath=''
